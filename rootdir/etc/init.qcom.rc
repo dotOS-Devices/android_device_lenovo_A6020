@@ -388,6 +388,7 @@ service rmt_storage /system/vendor/bin/rmt_storage
     user root
     group system wakelock
     writepid /dev/cpuset/system-background/tasks
+    ioprio rt 0
 
 service hciattach /system/vendor/bin/hci_qcomm_init -e
     class late_start
