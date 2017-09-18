@@ -139,7 +139,8 @@ PRODUCT_PACKAGES += \
     ims-ext-common
 
 PRODUCT_PACKAGES += \
-    libshims_boringssl
+    libshims_boringssl \
+    libshims_ims
 
 # Keylayout
 PRODUCT_COPY_FILES += \
