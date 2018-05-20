@@ -76,19 +76,14 @@ net.lte.volte_call_capable=true
 persist.ims.enableADBLogs=1
 persist.ims.enableDebugLogs=1
 persist.radio.calls.on.ims=true
-<<<<<<< HEAD
 persist.radio.csvt.enabled=false
 persist.radio.jbims=1
-=======
 persist.radio.NO_STAPA=1
->>>>>>> 9c9c0cc... A6020: Update system properties
 persist.radio.ROTATION_ENABLE=1
 persist.radio.VT_ENABLE=1
 persist.radio.VT_HYBRID_ENABLE=1
 persist.volte_enabled_by_hw=1
 persist.dbg.volte_avail_ovr=1
-<<<<<<< HEAD
-=======
 persist.dbg.vt_avail_ovr=1
 persist.dbg.wfc_avail_ovr=1
 persist.vendor.qti.telephony.vt_cam_interface=1
@@ -96,7 +91,6 @@ persist.radio.data_ltd_sys_ind=1
 persist.radio.data_con_rprt=1
 persist.radio.calls.on.ims=1
 persist.radio.jbims=1
->>>>>>> 9c9c0cc... A6020: Update system properties
 
 # NITZ
 persist.rild.nitz_plmn=
